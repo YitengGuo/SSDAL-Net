@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Guo"
+    given-names: "Yiteng"
+  - family-names: "Xu"
+    given-names: "Ru"
+  - family-names: "Li"
+    given-names: "Hao"
+  - family-names: "Hao"
+    given-names: "Zhibin"
+  - family-names: "Zhang"
+    given-names: "Ye"
+title: "SSDALNet: Synergistic Sparse-Deformable Attention Learning Network for Underwater Object Detection"
+version: "1.0.0"
+date-released: "2026-04-19"
+url: "https://github.com/YitengGuo/SSDAL-Net"
+license: Apache-2.0
+type: software
+keywords:
+  - underwater object detection
+  - sparse attention
+  - deformable convolution
+  - feature pyramid network
+  - deep learning
+repository-code: "https://github.com/YitengGuo/SSDAL-Net"
+# DOI: Will be assigned by Zenodo upon first release
+# zenodo-doi: "10.5281/zenodo.xxxxxx"
+references:
+  - type: article
+    title: "Adaptive Sparse-Deformable Synergistic Mechanism for Object Detection in Complex Underwater Scenes"
+    authors:
+      - Yiteng Guo
+      - Ru Xu
+      - Hao Li
+      - Zhibin Hao
+      - Ye Zhang
+    journal: "The Visual Computer"
+    year: 2026
+    # NOTE: Paper DOI will be assigned upon journal acceptance
