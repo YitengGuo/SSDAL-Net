@@ -7,7 +7,6 @@ This repository contains the official PyTorch implementation of **SSDALNet** (Sy
 > **Adaptive Sparse-Deformable Synergistic Mechanism for Object Detection in Complex Underwater Scenes**  
 > Yiteng Guo, Ru Xu, Hao Li, Zhibin Hao, Ye Zhang  
 > *School of Mechanical and Electrical Engineering, Xinxiang University, China*  
-> *Venue: The Visual Computer (Springer)*
 
 ---
 
@@ -148,15 +147,4 @@ If SSDALNet is useful for your research, please cite:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19657123.svg)](https://doi.org/10.5281/zenodo.19657123)
 
-If SSDALNet is useful for your research, please cite:
 
-```bibtex
-@article{guo2026ssdal,
-  title={Adaptive Sparse-Deformable Synergistic Mechanism for Object Detection
-         in Complex Underwater Scenes},
-  author={Guo, Yiteng and Xu, Ru and Li, Hao and Hao, Zhibin and Zhang, Ye},
-  journal={The Visual Computer},
-  year={2026},
-  doi={10.5281/zenodo.19657123}
-}
-```
