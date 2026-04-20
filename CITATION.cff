@@ -24,8 +24,9 @@ keywords:
   - feature pyramid network
   - deep learning
 repository-code: "https://github.com/YitengGuo/SSDAL-Net"
-# DOI: Will be assigned by Zenodo upon first release
-# zenodo-doi: "10.5281/zenodo.xxxxxx"
+doi: "10.5281/zenodo.19657123"
+# Zenodo DOI (assigned upon first release)
+zenodo-doi: "10.5281/zenodo.19657123"
 references:
   - type: article
     title: "Adaptive Sparse-Deformable Synergistic Mechanism for Object Detection in Complex Underwater Scenes"
